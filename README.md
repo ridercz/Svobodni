@@ -25,9 +25,21 @@ Kód pro vložení do pravého horního rohu stránky:
 
     <a href="http://www.svobodni.cz/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://github.com/ridercz/Svobodni/blob/master/volim_svobodne_corner_right_lightbg_nologo.png?raw=true" alt="Volím Svobodné"></a>
 
-Světlou verzi lze získat tak, že v adrese obrázku nahradíte slovo `light` slovem `dark`.
+Verzi pro tmavé pozadí lze získat tak, že v adrese obrázku nahradíte slovo `light` slovem `dark`.
 
-*Verzi s logem doplním, až se mi podaří získat logo strany ve vektorech, abych ho nemusel pracně dolovat z webových PNG.*
+## Roh stránky s logem
+
+![Volím Svobodné](https://github.com/ridercz/Svobodni/blob/master/volim_svobodne_corner_left_logo.png?raw=true "Volím Svobodné") ![Volím Svobodné](https://github.com/ridercz/Svobodni/blob/master/volim_svobodne_corner_right_logo.png?raw=true "Volím Svobodné")
+
+Výraznější rohová varianta, obsahuje logo strany. Univerzální, vhodné pro světlé i tmavé pozadí. Průhledné PNG má rozměr 150x150 px.
+
+Kód pro vložení do levého horního rohu stránky:
+
+    <a href="http://www.svobodni.cz/"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://github.com/ridercz/Svobodni/blob/master/volim_svobodne_corner_left_logo.png?raw=true" alt="Volím Svobodné"></a>
+
+Kód pro vložení do pravého horního rohu stránky:
+
+    <a href="http://www.svobodni.cz/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://github.com/ridercz/Svobodni/blob/master/volim_svobodne_corner_right_logo.png?raw=true" alt="Volím Svobodné"></a>
 
 ## Poděkování
 
